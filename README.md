@@ -16,7 +16,7 @@ This is a basic file encryption and decryption program written in x86-64 assembl
 - Can be used both to encrypt and decrypt files with the same key
 
 ## How to Use
-
+In a Linux based machine or VM;
 1. Install NASM if you have not (to double check input 'nasm --version' on your terminal)
 2. Make sure your file to be encrypted is in the same directory as the .asm file
 3. Assemble and link the program using an x86-64 assembler (e.g., NASM)
